@@ -132,7 +132,7 @@ export default function LandingPage() {
             { id: "2", value: "Até 15km", description: "Raio de entrega na região" },
             { id: "3", value: "Sem Taxa", description: "Acima de R$ 500" }
           ]}
-          gridVariant="three-columns-all-equal-width"
+          gridVariant="uniform-all-items-equal"
           animationType="slide-up"
           textboxLayout="default"
           useInvertedBackground={false}
